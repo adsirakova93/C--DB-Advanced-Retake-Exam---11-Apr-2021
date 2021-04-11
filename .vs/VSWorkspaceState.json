@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Cinema",
+    "\\Cinema\\Data",
+    "\\Cinema\\DataProcessor",
+    "\\Cinema\\DataProcessor\\ExportDto",
+    "\\Cinema\\DataProcessor\\ImportDto",
+    "\\Cinema\\Data\\Models",
+    "\\Cinema\\Data\\Models\\Enums",
+    "\\Cinema\\ExportResults",
+    "\\Cinema\\ImportResults"
+  ],
+  "SelectedNode": "\\Cinema\\ImportResults\\Actual Result - ImportMovies.txt",
+  "PreviewInSolutionExplorer": false
+}
